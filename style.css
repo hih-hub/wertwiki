@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    background-color:rgb(51, 25, 25);
+    font-size:25px;
+    color:rgb(218, 216, 148);
+    font-family:Cursive;
+    font-weight: 900;
+    letter-spacing: 3px;
+}
+
+a {
+    color:hotpink;
+}
+
+#spis1{
+    text-align: left;
+    background-color:rgb(29, 13, 13);
+    border:inset;
+    border-radius: 10px;
+    border-width: 5px;
+
+    height: 620px;
+    border-color:brown;
+
+    padding: 10px;
+
+    position:absolute;
+    margin: 0;
+    top: 125px;
+    left: 50px;
+    /* transform: translate(50%, 50%); */
+}
+
+#strona{
+    text-align: left;
+    background-color:rgb(29, 13, 13);
+    border:inset;
+    border-radius: 10px;
+    border-width: 5px;
+    width: 60%;
+    border-color:brown;
+
+    padding: 10px;
+
+    margin: 0;
+    top: 310px;
+    left: 20%;
+    position:absolute;
+    /* transform: translate(50%, 50%); */
+}
